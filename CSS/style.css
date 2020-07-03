@@ -1,0 +1,209 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+
+ul{
+	display: flex;
+	color:#aa5acc;
+	width:30%;
+}
+ul li a{
+	text-decoration: none;
+	color:#fff;
+}
+
+h1{
+	width:70%;
+	padding:10px;
+	padding-left:20px;
+}
+
+ul li{
+	list-style: none;
+	padding: 20px;
+}
+.bg-img{
+	background-image: url('../img/bg.jpg');
+	height: 50vh;
+	background-size: cover;
+	background-position: center;
+
+}
+
+
+
+
+.up-img{
+	
+	height: 250px;
+	
+	width: 500px;
+
+
+}
+
+.parent{
+	display: flex;
+	justify-content: space-around;
+	margin-top:50px;
+}
+
+
+.down-img{
+	display: flex;
+
+}
+
+
+.down-img img{
+	margin-right: 20px;
+}
+
+.right{
+	width:600px;
+}
+
+.links a{
+	padding: 10px;
+	text-decoration: none;
+	color:#fff;
+	border-radius: 20px;
+
+}
+.first{
+background-color: red;
+}
+.second{
+background-color: blue;
+}
+.right p{
+	margin-bottom: 30px;
+}
+
+footer{
+	height: 65px;
+	background-color: #ff4242;
+	display: flex;
+	justify-content: space-between;
+	margin-top: 20px;
+
+
+}
+
+.copy{
+	color:#fff;
+	margin:20px;
+}
+/*ul li a:active{
+	padding: 20px;
+	background-color: red;
+	color:yellow;
+}
+
+*/
+.d1{
+	background: #ff4242;
+	color:#fff;
+	display: flex;
+}
+.a1{
+   width:100%;
+   height: 200px;
+}
+.cu{
+	display:flex;
+	width: 100%;
+}
+.inputs{
+	width:40%;
+}
+.map{
+	width: 60%;
+	padding: 50px;
+	padding-left:200px; 
+}
+.size{
+	margin: 60px;
+	margin-left: 120px;
+}
+.size input{
+	width:100%;
+	margin-top: 20px;
+	border-radius: 5px;
+	border: none;
+	border: 1px solid #a4aba6;
+	padding:5px;
+}
+.ip1{
+	height: 180px;
+	text-align: center;
+}
+.btn1{
+	float: right;
+	border: none;
+	border-radius: 5px;
+	background: #ff4242;
+	color: #fff;
+	padding:5px;
+	margin:10px;
+	margin-left: 0;
+}
+.btn2{
+	float: left;
+	border: none;
+	border-radius: 5px;
+	background: #ff4242;
+	color: #fff;
+	padding:10px;
+	margin:10px;
+	margin-left: 0;
+	margin-top: 30px;
+}
+.cont{
+	width:100%;
+
+}
+.pro{
+	width: 270px;
+	height: 200px;
+}
+.row1{
+	display:flex;
+	margin-top: 50px
+}
+.text{
+	width:100%;
+	font-size: 12px;
+	text-align: center;
+	margin: 3px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.link a{
+	text-decoration: none;
+   
+}
+ .link{
+ 	margin: 10px;
+ }
+.pd1{
+	border:1px solid #d4d2d2;
+	border-bottom: 2px solid #d4d2d2;
+	margin:50px;
+	margin-left: 100px;
+}
+.cont2{
+	margin-top: 50px;
+	margin-left: 50px;
+	display: flex;
+}
+.col{
+	width: 50%;
+}
+
+.kef{
+	width:550px;
+}
